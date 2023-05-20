@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Practice 2</string>
+    <string name="string_1">All tasks completed</string>
+    <string name="string_2">Nice work!</string>
+</resources>
